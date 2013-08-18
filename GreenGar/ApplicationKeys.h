@@ -29,4 +29,7 @@
  */
 #define PARSE_CLIENT_KEY @"REPLACE_WITH_YOUR_PARSE_CLIENT_KEY"
 
+// Comment or remove this line after you've added your keys above.
+#error Please edit ApplicationKeys.h before compiling
+
 #endif
