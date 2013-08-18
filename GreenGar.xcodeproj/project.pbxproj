@@ -60,6 +60,7 @@
 		A950F6DF17C1572300B273E3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A950F6E117C1572300B273E3 /* GreenGarTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GreenGarTests.h; sourceTree = "<group>"; };
 		A950F6E217C1572300B273E3 /* GreenGarTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GreenGarTests.m; sourceTree = "<group>"; };
+		A950F6ED17C15A2A00B273E3 /* ApplicationKeys.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ApplicationKeys.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +127,7 @@
 				A950F6CC17C1572300B273E3 /* GGViewController.h */,
 				A950F6CD17C1572300B273E3 /* GGViewController.m */,
 				A950F6B517C1572300B273E3 /* Supporting Files */,
+				A950F6ED17C15A2A00B273E3 /* ApplicationKeys.h */,
 			);
 			path = GreenGar;
 			sourceTree = "<group>";
@@ -468,6 +470,7 @@
 				A950F6E817C1572300B273E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A950F6E917C1572300B273E3 /* Build configuration list for PBXNativeTarget "GreenGarTests" */ = {
 			isa = XCConfigurationList;
@@ -476,6 +479,7 @@
 				A950F6EB17C1572300B273E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
