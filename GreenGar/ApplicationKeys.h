@@ -13,6 +13,9 @@
  * In the future, we will allow the user to dynamically add additional keys
  * within the app. For now, we will hardcode a few initial keys just to
  * make it easy to get up and running quickly.
+ * 
+ * You should make a backup copy of this file because it's easy to
+ * accidentally reset this file after it's changed in on the remote.
  */
 
 
